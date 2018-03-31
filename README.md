@@ -4,8 +4,6 @@ The Online Booking System is a complete car rental website designed for car rent
 
 
 
-https://drive.google.com/file/d/15kRa2E-tpBu9W4nf2n2ArVmFTFV6310O/view?usp=sharing
-
 
 
 
