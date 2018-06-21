@@ -1,6 +1,6 @@
 # Vehicle-Booking-System
 
-The Online Booking System is a complete car rental website designed for car rental business in Embu County. Clients can visit your website on their desktop or mobile devices and reserve the vehicle of their choice. Car rental companies can take advantage of the emerging trend of clients booking vehicles online directly from the website. This hosted web based vehicle booking system can also be linked or added to your existing website. It gives your clients instant view of availability rates and instant booking confirmation.
+The Online Booking System is a complete car rental website designed for TAGLINE EXECUTIVE CABS. Clients can visit TAGLINE EXECUTIVE CABS website on their desktop or mobile devices and reserve the vehicle of their choice. TAGLINE EXECUTIVE CABS  took the advantage of the emerging trend of online taxi booking directly from the website. This hosted web based vehicle booking system is be intergated with website. It gives your clients instant view of availability rates and instant booking confirmation from the managements. For more information check the link. http://booking.taglinecabs.co.ke/booking.
 
 ![xxxx](https://user-images.githubusercontent.com/18662989/38167458-d64f78c8-353d-11e8-865f-9c3acea40fc7.PNG)
 ![bb](https://user-images.githubusercontent.com/18662989/38167459-d69912ee-353d-11e8-8744-ef296e37a781.PNG)
